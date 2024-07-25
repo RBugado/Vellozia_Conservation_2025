@@ -1,0 +1,114 @@
+tax,EOO,AOO,locations,nbe_unique_occs,category_B,category_B_code,subpop,severe_frag,issue_aoo,issue_eoo,issue_locations,main_threat
+Vellozia abietina,5438,88,13,27,LC or NT,NA,4,FALSE,NA,NA,NA,NA
+Vellozia alata,602.4,16,3,7,EN,B1ab+B2ab,3,TRUE,NA,NA,NA,NA
+Vellozia albiflora,494965,468,89,131,LC or NT,NA,7,FALSE,NA,NA,NA,NA
+Vellozia aloifolia,21510.1,120,20,32,LC or NT,NA,6,FALSE,NA,NA,NA,NA
+Vellozia andina,3059.4,28,5,8,EN,B1ab+B2ab,4,TRUE,NA,NA,NA,NA
+Vellozia angustifolia,144252,68,12,20,LC or NT,NA,4,FALSE,NA,NA,NA,NA
+Vellozia armata,27.7,16,2,4,EN,B1ab,4,FALSE,NA,NA,NA,NA
+Vellozia asperula,5286.7,20,5,5,EN,B2ab,5,TRUE,NA,NA,NA,NA
+Vellozia auriculata,1166.7,28,7,7,VU,B1ab+B2ab,7,FALSE,NA,NA,NA,NA
+Vellozia bahiana,4,4,1,1,CR,B1ab+B2ab,1,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia barbaceniifolia,4,4,1,2,CR,B1ab+B2ab,1,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia barbata,99.1,12,2,3,EN,B1ab,2,NA,NA,NA,NA,NA
+Vellozia blanchetiana,26173.2,44,10,13,VU,B2ab,5,FALSE,NA,NA,NA,NA
+Vellozia brachypoda,421.5,12,2,3,EN,B1ab+B2ab,3,NA,NA,NA,NA,NA
+Vellozia brevifolia,1740.2,16,4,5,EN,B1ab+B2ab,3,TRUE,NA,NA,NA,NA
+Vellozia breviscapa,542.8,32,6,11,VU,B1ab+B2ab,7,FALSE,NA,NA,NA,NA
+Vellozia bulbosa,8,8,2,2,EN,B1ab+B2ab,2,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia caespitosa,2462.3,20,4,5,EN,B1ab+B2ab,4,TRUE,NA,NA,NA,NA
+Vellozia candida,162095,172,30,51,LC or NT,NA,6,FALSE,NA,NA,NA,NA
+Vellozia canelinha,2837.1,20,4,7,EN,B1ab+B2ab,3,TRUE,NA,NA,NA,NA
+Vellozia capiticola,8,8,2,2,EN,B1ab+B2ab,2,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia caput-ardeae,543.5,28,5,8,EN,B1ab+B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia caruncularis,43904,348,55,103,LC or NT,NA,5,FALSE,NA,NA,NA,NA
+Vellozia caudata,2343.8,72,7,29,VU,B1ab+B2ab,4,FALSE,NA,NA,NA,NA
+Vellozia ciliata,3351.4,32,6,9,EN,B1ab+B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia cinerascens,68549,36,8,15,VU,B2ab,5,FALSE,NA,NA,NA,NA
+Vellozia compacta,25552.9,288,46,85,LC or NT,NA,6,FALSE,NA,NA,NA,NA
+Vellozia costata,4,4,1,1,CR,B1ab+B2ab,1,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia crinita,4,4,1,4,CR,B1ab+B2ab,3,TRUE,NA,|EOO is set equal to AOO because it is lower than AOO,NA,NA
+Vellozia cryptantha,2348,24,5,7,EN,B1ab+B2ab,4,TRUE,NA,NA,NA,NA
+Vellozia dasypus,176450,472,72,150,EN,B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia decidua,12,12,2,4,EN,B1ab,3,FALSE,NA,|EOO is set equal to AOO because it is lower than AOO,NA,NA
+Vellozia declinans,11030.4,96,21,25,LC or NT,NA,4,FALSE,NA,NA,NA,NA
+Vellozia echinata,4,4,1,2,CR,B1ab+B2ab,1,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia epidendroides,15722.9,340,45,121,LC or NT,NA,7,FALSE,NA,NA,NA,NA
+Vellozia everaldoi,4,4,1,1,CR,B1ab+B2ab,1,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia exilis,537.5,28,5,8,EN,B1ab+B2ab,6,TRUE,NA,NA,NA,NA
+Vellozia flavida,4,4,1,5,CR,B1ab+B2ab,4,TRUE,NA,|EOO is set equal to AOO because it is lower than AOO,NA,NA
+Vellozia fontellana,4,4,1,3,CR,B1ab+B2ab,1,NA,NA,|EOO is set equal to AOO because it is lower than AOO,NA,NA
+Vellozia formosa,4,4,1,4,CR,B1ab+B2ab,2,TRUE,NA,|EOO is set equal to AOO because it is lower than AOO,NA,NA
+Vellozia froesii,38712,184,27,53,LC or NT,NA,7,FALSE,NA,NA,NA,NA
+Vellozia fruticosa,2669.2,16,4,4,EN,B1ab+B2ab,3,FALSE,NA,NA,NA,NA
+Vellozia furcata,21975.7,164,22,49,LC or NT,NA,7,FALSE,NA,NA,NA,NA
+Vellozia geotegens,884.6,40,7,12,EN,B1ab+B2ab,6,TRUE,NA,NA,NA,NA
+Vellozia gigantea,2619.1,20,5,5,EN,B1ab+B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia giuliettiae,4,4,1,1,CR,B1ab+B2ab,1,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia glabra,12180.7,84,19,21,LC or NT,NA,5,FALSE,NA,NA,NA,NA
+Vellozia glandulifera,2907,36,7,10,VU,B1ab+B2ab,4,FALSE,NA,NA,NA,NA
+Vellozia glauca,1406112,368,71,103,LC or NT,NA,5,FALSE,NA,NA,NA,NA
+Vellozia glochidea,610024,108,27,28,LC or NT,NA,3,FALSE,NA,NA,NA,NA
+Vellozia goiasensis,20600.8,44,9,12,EN,B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia graminea,7096.2,204,28,55,LC or NT,NA,5,FALSE,NA,NA,NA,NA
+Vellozia graomogolensis,3939.3,32,6,10,EN,B1ab+B2ab,6,TRUE,NA,NA,NA,NA
+Vellozia hatschbachii,342.2,24,4,6,EN,B1ab+B2ab,6,FALSE,NA,NA,NA,NA
+Vellozia hemisphaerica,28792.1,116,22,34,LC or NT,NA,4,FALSE,NA,NA,NA,NA
+Vellozia hirsuta,227503,272,53,85,LC or NT,NA,6,FALSE,NA,NA,NA,NA
+Vellozia hypoxoides,35.7,12,2,3,EN,B1ab,1,NA,NA,NA,NA,NA
+Vellozia inselbergae,2434.6,12,3,5,EN,B1ab+B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia intermedia,239068,76,17,24,LC or NT,NA,5,FALSE,NA,NA,NA,NA
+Vellozia jolyi,4422.2,108,15,43,LC or NT,NA,9,FALSE,NA,NA,NA,NA
+Vellozia lilacina,856.5,20,5,6,EN,B1ab+B2ab,5,TRUE,NA,NA,NA,NA
+Vellozia linearis,850.1,12,3,3,EN,B1ab+B2ab,3,NA,NA,NA,NA,NA
+Vellozia luteola,1165.8,28,4,8,EN,B1ab+B2ab,4,TRUE,NA,NA,NA,NA
+Vellozia marcescens,14937.6,56,9,19,EN,B2ab,3,TRUE,NA,NA,NA,NA
+Vellozia maxillarioides,3158.1,48,7,16,EN,B1ab+B2ab,6,TRUE,NA,NA,NA,NA
+Vellozia mellosilvae,12,12,2,3,EN,B1ab,2,NA,NA,|EOO is set equal to AOO because it is lower than AOO,NA,NA
+Vellozia metzgerae,2455.4,48,7,17,EN,B1ab+B2ab,3,TRUE,NA,NA,NA,NA
+Vellozia minima,20386.7,228,39,69,LC or NT,NA,6,FALSE,NA,NA,NA,NA
+Vellozia nanuzae,20018.6,32,7,8,VU,B2ab,3,FALSE,NA,NA,NA,NA
+Vellozia nivea,32802,36,8,10,VU,B2ab,3,FALSE,NA,NA,NA,NA
+Vellozia nuda,19134,44,10,11,EN,B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia obtecta,3782.4,16,4,4,EN,B1ab+B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia ornata,1133.8,28,5,9,EN,B1ab+B2ab,3,TRUE,NA,NA,NA,NA
+Vellozia ornithophila,700.2,16,3,4,EN,B1ab+B2ab,3,FALSE,NA,NA,NA,NA
+Vellozia patens,3615.1,56,10,16,VU,B1ab+B2ab,4,FALSE,NA,NA,NA,NA
+Vellozia peripherica,314.3,16,3,4,EN,B1ab+B2ab,3,FALSE,NA,NA,NA,NA
+Vellozia piresiana,259.9,8,2,3,EN,B2ab,2,NA,NA,NA,NA,NA
+Vellozia plicata,963726,484,101,134,EN,B2ab,1,TRUE,NA,NA,NA,NA
+Vellozia prolifera,8,8,1,4,CR,B1ab+B2ab,2,TRUE,NA,|EOO is set equal to AOO because it is lower than AOO,NA,NA
+Vellozia pterocarpa,8,8,2,2,EN,B1ab+B2ab,2,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia pulchra,18617.5,72,15,23,EN,B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia pumila,51640,168,31,47,EN,B2ab,5,TRUE,NA,NA,NA,NA
+Vellozia punctulata,34827,140,26,43,LC or NT,NA,4,FALSE,NA,NA,NA,NA
+Vellozia pusilla,8,8,2,2,EN,B1ab+B2ab,2,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia ramosissima,2501.9,24,5,8,EN,B1ab+B2ab,4,TRUE,NA,NA,NA,NA
+Vellozia religiosa,4,4,1,2,CR,B1ab+B2ab,1,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia resinosa,33458,164,29,43,EN,B2ab,3,TRUE,NA,NA,NA,NA
+Vellozia scabrosa,152.7,12,3,3,EN,B1ab+B2ab,3,NA,NA,NA,NA,NA
+Vellozia sellowii,7410.5,40,8,12,VU,B2ab,7,FALSE,NA,NA,NA,NA
+Vellozia semirii,17.2,12,2,3,EN,B1ab,2,NA,NA,NA,NA,NA
+Vellozia sessilis,280.9,20,3,6,EN,B1ab+B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia seubertiana,1003825,92,21,27,EN,B2ab,4,TRUE,NA,NA,NA,NA
+Vellozia sincorana,15444.9,80,16,23,EN,B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia spiralis,8326.3,28,6,9,EN,B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia squalida,4,4,1,1,CR,B1ab+B2ab,1,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia squamata,1320098,664,121,184,LC or NT,NA,12,FALSE,NA,NA,NA,NA
+Vellozia stellata,3757.3,80,11,25,EN,B1ab+B2ab,6,TRUE,NA,NA,NA,NA
+Vellozia stenocarpa,3702.4,36,5,12,EN,B1ab+B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia stipitata,25577.4,24,6,10,EN,B2ab,3,TRUE,NA,NA,NA,NA
+Vellozia strangii,329.5,20,4,5,EN,B1ab+B2ab,4,FALSE,NA,NA,NA,NA
+Vellozia streptophylla,8,8,2,2,EN,B1ab+B2ab,2,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia subscabra,96300,72,14,19,LC or NT,NA,4,FALSE,NA,NA,NA,NA
+Vellozia swallenii,3557.7,28,6,8,EN,B1ab+B2ab,3,TRUE,NA,NA,NA,NA
+Vellozia taxifolia,4749.7,44,8,12,VU,B1ab+B2ab,6,FALSE,NA,NA,NA,NA
+Vellozia teres,8,8,2,2,EN,B1ab+B2ab,2,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia tillandsioides,366.5,12,3,3,EN,B1ab+B2ab,3,NA,NA,NA,NA,NA
+Vellozia tomeana,2333.9,12,3,4,EN,B1ab+B2ab,2,TRUE,NA,NA,NA,NA
+Vellozia torquata,4,4,1,1,CR,B1ab+B2ab,1,NA,NA,|EOO cannot be estimated because less than 3 unique pair of coordinates|EOO is set equal to AOO because it is null,NA,NA
+Vellozia tragacantha,6262.3,56,8,17,VU,B2ab,3,FALSE,NA,NA,NA,NA
+Vellozia tubiflora,7553103,852,155,248,LC or NT,NA,5,FALSE,NA,NA,NA,NA
+Vellozia variabilis,1806944,592,110,168,LC or NT,NA,8,FALSE,NA,NA,NA,NA
+Vellozia variegata,146034,216,42,73,LC or NT,NA,3,FALSE,NA,NA,NA,NA
+Vellozia wasshausenii,1380.7,16,4,4,EN,B1ab+B2ab,4,TRUE,NA,NA,NA,NA
