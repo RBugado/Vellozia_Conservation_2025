@@ -1,4 +1,4 @@
-species,range expansion (km2),no range change (km2),range contraction (km2),present range (km2),2041-2060 range (km2),percentage habitat lost,AUC,bias file buffer distance (km),bio_1 percent contribution,bio_12 percent contribution,bio_15 percent contribution,bio_18 percent contribution,bio_2 percent contribution,bio_3 percent contribution
+species,range expansion (km2),no range change (km2),range contraction (km2),present suitable range (km2),2041-2060 suitable range (km2),percentage habitat lost,AUC,bias file buffer distance (km),bio_1 percent contribution,bio_12 percent contribution,bio_15 percent contribution,bio_18 percent contribution,bio_2 percent contribution,bio_3 percent contribution
 Vellozia abietina,5260.391339,500.9896513,10871.47543,11372.46508,5761.38099,49.34%,0.789,20,42.5493,2.6996,1.3058,40.6665,5.2033,7.5756
 Vellozia alata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Vellozia albiflora,16607.66338,221560.7581,325640.4584,547201.2165,238168.4215,56.48%,0.986,50,50.9518,9.7772,10.9133,8.8358,5.7623,13.7595
