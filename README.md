@@ -1,7 +1,6 @@
 **Conservation of the Brazilian *Campos Rupestres* under Climate Change Using the Iconic Plant *Vellozia* as a Model**
 
 Student: Rain Bugado, University of New Hampshire
-
 Supervisor: Jenifer C. Lopes, Harvard University Herbaria
 
 Davis Lab Harvard University
